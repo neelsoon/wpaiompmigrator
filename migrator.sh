@@ -44,7 +44,7 @@ echo "Live Site: $livesite"
 
 
 # Install and activate the All In One WordPress plugin
-wp plugin install all-in-one-wp-migration https://matth.site/all-in-one-wp-migration-unlimited-extension.zip --activate
+wp plugin install all-in-one-wp-migration https://magicalsite/all-in-one-wp-migration-unlimited-extension.zip --activate
 
 echo "aiomp installed"
 
